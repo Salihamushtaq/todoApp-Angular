@@ -1,0 +1,37 @@
+.main{
+  background-color: #cccbcb;
+  height: 100vh;
+}
+.custom {
+    color: #670f0f;
+}
+h1{
+    text-align: center;
+    color: rgb(12, 94, 145);
+}
+form{
+    margin: 10px;
+}
+.btnadd{
+    background-color: rgb(2, 82, 65);
+    color: white;
+    border-radius: 10px;
+    margin-left: 5px;
+    padding: 5px;
+    border: transparent;
+}
+.btndelall{
+    background-color: #7e0909;
+    color: white;
+    border-radius: 10px;
+    margin-left: 5px;
+    padding: 5px;
+    border: transparent;
+}
+.delbtn{
+    background-color: transparent;
+    border: 0ch;
+}
+.listItem{
+    margin-left: 10px;
+}

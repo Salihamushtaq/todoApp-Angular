@@ -1,0 +1,12 @@
+<p class="cllogin">login works!</p>
+<input type="text" #box3 (blur)="getUser(box3.value)" placeholder="blur">
+
+<input type="text" #box (keyup)="getData(box.value)" placeholder="keyup">
+<br>
+<br>
+
+<input type="text" #box2 (keydown)="getDatadown(box2.value)" placeholder="keydown">
+
+<h1 (mouseover)="getover('over')">Tylextech </h1>
+<h2 (mouseenter)="getenter('enter')">Itech</h2>
+<h3 (mouseleave)="leavemouse('leave')">saliha</h3>

@@ -1,0 +1,10 @@
+button{
+    background-color: rgb(6, 101, 104);
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    font-size: large;
+}
+form{
+    background-color: cadetblue;
+}
